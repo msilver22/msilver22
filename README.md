@@ -44,7 +44,6 @@ Hi👋🏻, I'm Matteo Silvestri
 
 ## 📊 Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msilver22&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msilver22&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilver22&layout=compact&theme=dark)
 
 
