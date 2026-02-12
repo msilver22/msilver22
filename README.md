@@ -43,9 +43,8 @@ Hi👋🏻, I'm Matteo Silvestri
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msilver22&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilver22&layout=compact&theme=dark)
-
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=msilver22&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msilver22&layout=compact&theme=dark)
 
 
 
