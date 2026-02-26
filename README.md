@@ -35,7 +35,6 @@ Hi👋🏻, I'm Matteo Silvestri
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ## 📊 Github Stats:
