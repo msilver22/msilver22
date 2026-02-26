@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi👋🏻, I'm Matteo Silvestri
 
 👨🏻‍🎓 I hold both a Bachelor's and a Master's degree in Mathematics from Sapienza University of Rome.  
-💼 I am a PhD student at the Computer Science Department of Sapienza Univesity of Rome, where I conduct research in Privacy within Social Networks, Counterfactual Text Generation, and Machine Learning, in general.  
+💼 I am a PhD student at the Computer Science Department of Sapienza Univesity of Rome, where I conduct research in LLM for Human-centered AI and Agentic AI.  
 👾 All my projects are available [here](https://github.com/msilver22?tab=repositories)
 
 ## 🛜 Socials:
