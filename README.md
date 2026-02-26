@@ -22,8 +22,6 @@ Hi👋🏻, I'm Matteo Silvestri
 👾 All my projects are available [here](https://github.com/msilver22?tab=repositories)
 
 ## 🛜 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554777104937&locale=it_IT)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sil._.ver22/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-silvestri-22-peedmat/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
